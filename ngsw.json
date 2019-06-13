@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560467270640,
+  "timestamp": 1560469788242,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8672,7 +8672,7 @@
     "/assets/plugins/youtube-player/src/jquery.mb.YTPlayer.js": "b8bff1fde0144a2fb67a191789e5fb3e048d84d0",
     "/assets/plugins/youtube-player/src/jquery.mb.YTPlayer.min.js": "7367b0270ba708cced687963dfd686582844ee77",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "5beace1dff8175fc77665e17e9c748c841bd2553",
+    "/index.html": "481f1320a612d6c9d29b81c373059287334c8f06",
     "/main-es2015.c666d58b1e06972f65a3.js": "626573b890387a99b99fca899c07f4efd440c683",
     "/main-es5.9cafc013f043bd7fa8d4.js": "8413f2905a55a1ac3e92af4ccdc81c9080d2a134",
     "/polyfills-es2015.559e7c8b3a629fdb5581.js": "4578bb107ec3b89d39eb3e9800266ebf8cda1f62",
