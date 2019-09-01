@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1565740949421,
+  "timestamp": 1567370261508,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -229,6 +229,7 @@
         "/assets/img/members/028.jpg",
         "/assets/img/members/029.jpg",
         "/assets/img/members/030.jpg",
+        "/assets/img/members/031.jpg",
         "/assets/img/projects/1.png",
         "/assets/img/projects/10.png",
         "/assets/img/projects/11.png",
@@ -4350,6 +4351,7 @@
     "/assets/img/members/028.jpg": "42923eb37008dccb1916a45e47a97e3615721353",
     "/assets/img/members/029.jpg": "116b69ad421151385184a657ae7231a6ce31add1",
     "/assets/img/members/030.jpg": "69614d242fec511468ac4f7224dacad8bb6db4fa",
+    "/assets/img/members/031.jpg": "76fc43b67f1e8fa36c5a9bb5b974309aadcc7878",
     "/assets/img/projects/1.png": "1e2cef4413799ea57d2acea266f5531f58707911",
     "/assets/img/projects/10.png": "eb4968f980dbce69cda1ed5126c8ce2d7b7f0920",
     "/assets/img/projects/11.png": "ecd9bf3580eb2c88a5171cac6b7e686a3d4d6460",
